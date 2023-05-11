@@ -35,7 +35,7 @@ class ApplicationMain
 		ManifestResources.init(config);
 		#end
 
-		app.meta["build"] = "80";
+		app.meta["build"] = "89";
 		app.meta["company"] = "ShadowMario";
 		app.meta["file"] = "NeonHeart";
 		app.meta["name"] = "FnF: Neon Hearts";
