@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Frey.png">
+<SubTexture name="Frey Idle0000" x="759" y="1162" width="742" height="1154" frameX="-353" frameY="-24" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Idle0001" x="0" y="1162" width="759" height="1156" frameX="-345" frameY="-22" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Idle0002" x="790" y="0" width="772" height="1158" frameX="-339" frameY="-20" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Idle0003" x="0" y="0" width="790" height="1162" frameX="-336" frameY="-16" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Idle0004" x="1562" y="0" width="772" height="1158" frameX="-339" frameY="-20" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Left0000" x="1033" y="2318" width="877" height="1058" frameX="-265" frameY="-121" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Left0001" x="1910" y="2318" width="884" height="1058" frameX="-252" frameY="-121" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Left0002" x="2794" y="2318" width="870" height="1058" frameX="-260" frameY="-121" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Up0000" x="1501" y="1162" width="757" height="1121" frameX="-525" frameY="-57" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Up0001" x="2334" y="0" width="765" height="1120" frameX="-525" frameY="-58" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Up0002" x="1501" y="1162" width="757" height="1121" frameX="-525" frameY="-57" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Down0000" x="4120" y="1039" width="758" height="1036" frameX="-383" frameY="-142" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Down0001" x="4120" y="0" width="779" height="1039" frameX="-381" frameY="-139" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Down0002" x="4120" y="2075" width="769" height="1030" frameX="-386" frameY="-148" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Right0000" x="0" y="2318" width="1033" height="1095" frameX="-441" frameY="-84" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Right0001" x="3099" y="0" width="1021" height="1097" frameX="-440" frameY="-82" frameWidth="1600" frameHeight="1200" />
+<SubTexture name="Frey Right0002" x="3099" y="1097" width="1019" height="1095" frameX="-438" frameY="-84" frameWidth="1600" frameHeight="1200" />
+</TextureAtlas>

@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.25,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Where are we?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY ARE YOU GREEN???????"
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.4,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.1,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about this: a rap battle."
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.1,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "However, I will not let this be fair."
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.1,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll have my friends join in."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+				{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop :D"
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.5,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU ARE GONNA D I E."
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh."
+		},
+				{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Crap."
+		}
+	]
+}

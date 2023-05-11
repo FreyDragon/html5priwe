@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Neon-Soul",
+			"furries",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Temptation",
+			"furries",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Vivid-Shade",
+			"furries",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "classic, expert, master",
+	"weekCharacters": [
+		"menu-frey",
+		"bf",
+		"gf"
+	],
+	"storyName": "Furry Week :skull:",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

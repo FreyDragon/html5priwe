@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-53,
+				341
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Frey Left000"
+		},
+		{
+			"offsets": [
+				-382,
+				349
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Frey Right000"
+		},
+		{
+			"offsets": [
+				-137,
+				415
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Frey Up000"
+		},
+		{
+			"offsets": [
+				-125,
+				386
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Frey Down000"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				447
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Frey Idle000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Frey",
+	"position": [
+		-500,
+		310
+	],
+	"healthicon": "furries",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		136,
+		85
+	],
+	"camera_position": [
+		431,
+		-405
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

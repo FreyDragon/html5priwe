@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="market.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stall0000" x="20" y="20" width="1285" height="701"/>
+	<SubTexture name="Stall0001" x="1325" y="20" width="1285" height="701"/>
+	<SubTexture name="Stall0002" x="2630" y="20" width="1285" height="701"/>
+	<SubTexture name="Stall0003" x="20" y="741" width="1285" height="701"/>
+	<SubTexture name="Stall0004" x="1325" y="741" width="1285" height="701"/>
+	<SubTexture name="Stall0005" x="20" y="20" width="1285" height="701"/>
+</TextureAtlas>

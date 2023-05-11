@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Frey Idle",
+	"image": "Menu-Frey",
+	"position": [
+		390,
+		292
+	],
+	"flipX": false,
+	"scale": 0.35,
+	"confirm_anim": "Frey Right"
+}

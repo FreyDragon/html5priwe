@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wraithAttack.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attack0000" x="20" y="20" width="1137" height="2086"/>
+	<SubTexture name="Attack0001" x="1177" y="20" width="1103" height="2086" frameX="-5" frameY="0" frameWidth="1137" frameHeight="2086"/>
+	<SubTexture name="Attack0002" x="2300" y="20" width="1093" height="2086" frameX="-8" frameY="0" frameWidth="1137" frameHeight="2086"/>
+	<SubTexture name="Attack0003" x="3413" y="20" width="1035" height="2086" frameX="-8" frameY="0" frameWidth="1137" frameHeight="2086"/>
+	<SubTexture name="Attack0004" x="4468" y="20" width="1028" height="2086" frameX="-12" frameY="0" frameWidth="1137" frameHeight="2086"/>
+	<SubTexture name="SwingBack0000" x="5516" y="20" width="1137" height="2086" frameX="0" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0001" x="6673" y="20" width="1203" height="2086" frameX="-2" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0002" x="20" y="2126" width="1241" height="2086" frameX="-4" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0003" x="1281" y="2126" width="1268" height="2086" frameX="-5" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0004" x="2569" y="2126" width="1289" height="2086" frameX="-7" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0005" x="3878" y="2126" width="1312" height="2086" frameX="-9" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0006" x="5210" y="2126" width="1345" height="2086" frameX="-10" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0007" x="6575" y="2126" width="1399" height="2086" frameX="-11" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0008" x="20" y="4232" width="1525" height="2086" frameX="-3" frameY="0" frameWidth="1980" frameHeight="2086"/>
+	<SubTexture name="SwingBack0009" x="1565" y="4232" width="1968" height="2086" frameX="-12" frameY="0" frameWidth="1980" frameHeight="2086"/>
+</TextureAtlas>
