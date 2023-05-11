@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu-Olly.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Frey Down0000" x="20" y="20" width="516" height="564" frameX="0" frameY="0" frameWidth="520" frameHeight="568"/>
+	<SubTexture name="Frey Down0001" x="556" y="20" width="514" height="566" frameX="-6" frameY="-2" frameWidth="520" frameHeight="568"/>
+	<SubTexture name="Frey Idle0000" x="1090" y="20" width="534" height="584" frameX="-12" frameY="-6" frameWidth="558" frameHeight="590"/>
+	<SubTexture name="Frey Idle0001" x="1090" y="20" width="534" height="584" frameX="-12" frameY="-6" frameWidth="558" frameHeight="590"/>
+	<SubTexture name="Frey Idle0002" x="1644" y="20" width="548" height="586" frameX="-3" frameY="-4" frameWidth="558" frameHeight="590"/>
+	<SubTexture name="Frey Idle0003" x="2212" y="20" width="555" height="586" frameX="-3" frameY="-4" frameWidth="558" frameHeight="590"/>
+	<SubTexture name="Frey Idle0004" x="2787" y="20" width="545" height="588" frameX="0" frameY="0" frameWidth="558" frameHeight="590"/>
+	<SubTexture name="Frey Left0000" x="3352" y="20" width="499" height="547" frameX="0" frameY="0" frameWidth="500" frameHeight="549"/>
+	<SubTexture name="Frey Left0001" x="20" y="628" width="488" height="549" frameX="-12" frameY="0" frameWidth="500" frameHeight="549"/>
+	<SubTexture name="Frey Right0000" x="528" y="628" width="643" height="451" frameX="0" frameY="-1" frameWidth="651" frameHeight="453"/>
+	<SubTexture name="Frey Right0001" x="1191" y="628" width="649" height="453" frameX="-2" frameY="0" frameWidth="651" frameHeight="453"/>
+	<SubTexture name="Frey Up0000" x="1860" y="628" width="529" height="591" frameX="-3" frameY="0" frameWidth="539" frameHeight="591"/>
+	<SubTexture name="Frey Up0001" x="2409" y="628" width="539" height="589" frameX="0" frameY="-1" frameWidth="539" frameHeight="591"/>
+</TextureAtlas>

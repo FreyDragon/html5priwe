@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop skdoo bep :D"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'LL TAKE YOU SERIOUSLY."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep! :D"
+		}
+	]
+}

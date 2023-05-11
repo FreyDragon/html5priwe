@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "freytalk",
+			"speed": 0.1,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.25,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.1,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you want to cheat, eh?"
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.05,
+			"portrait": "bod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You've made a mistake."
+		},
+		{
+			"sound": "freytalk",
+			"speed": 0.1,
+			"portrait": "bod",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GET READY TO DIE."
+		}
+	]
+}

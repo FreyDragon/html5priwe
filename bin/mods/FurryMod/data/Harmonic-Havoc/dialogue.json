@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":D"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU KNOW WHAT?!"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'LL WIPE YOU OFF THE FACE OF THIS PLANET!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":D"
+		}
+	]
+}

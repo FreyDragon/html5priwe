@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Funnus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amogus00" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus006" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus007" x="7680" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus008" x="8960" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus009" x="10240" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus010" x="11520" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus011" x="12800" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus012" x="14080" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus013" x="15360" y="0" width="1280" height="720"/>
+
+</TextureAtlas>

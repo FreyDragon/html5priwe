@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bob.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="20" y="20" width="543" height="584" frameX="0" frameY="-6" frameWidth="548" frameHeight="590"/>
+	<SubTexture name="talk0001" x="583" y="20" width="547" height="587" frameX="0" frameY="-3" frameWidth="548" frameHeight="590"/>
+	<SubTexture name="talk0002" x="1150" y="20" width="548" height="590"/>
+	<SubTexture name="talk0003" x="20" y="630" width="545" height="586" frameX="0" frameY="-4" frameWidth="548" frameHeight="590"/>
+	<SubTexture name="talk0004" x="585" y="630" width="543" height="584" frameX="0" frameY="-6" frameWidth="548" frameHeight="590"/>
+</TextureAtlas>
