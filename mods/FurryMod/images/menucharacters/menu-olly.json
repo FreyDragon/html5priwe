@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Frey Left",
+	"idle_anim": "Frey Idle",
+	"position": [
+		203,
+		114
+	],
+	"scale": 0.65,
+	"image": "Menu-Olly"
+}

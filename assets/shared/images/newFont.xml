@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newFont.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="a" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="b" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="c" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="d" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="e" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="f" x="2500" y="0" width="500" height="500"/>
+	<SubTexture name="g" x="3000" y="0" width="500" height="500"/>
+	<SubTexture name="h" x="3500" y="0" width="500" height="500"/>
+	<SubTexture name="i" x="4000" y="0" width="500" height="500"/>
+	<SubTexture name="j" x="4500" y="0" width="500" height="500"/>
+	<SubTexture name="k" x="5000" y="0" width="500" height="500"/>
+	<SubTexture name="l" x="5500" y="0" width="500" height="500"/>
+	<SubTexture name="m" x="6000" y="0" width="500" height="500"/>
+	<SubTexture name="n" x="6500" y="0" width="500" height="500"/>
+	<SubTexture name="o" x="7000" y="0" width="500" height="500"/>
+	<SubTexture name="p" x="7500" y="0" width="500" height="500"/>
+	<SubTexture name="q" x="8000" y="0" width="500" height="500"/>
+	<SubTexture name="r" x="8500" y="0" width="500" height="500"/>
+	<SubTexture name="s" x="9000" y="0" width="500" height="500"/>
+	<SubTexture name="t" x="9500" y="0" width="500" height="500"/>
+	<SubTexture name="u" x="10000" y="0" width="500" height="500"/>
+	<SubTexture name="v" x="10500" y="0" width="500" height="500"/>
+	<SubTexture name="w" x="11000" y="0" width="500" height="500"/>
+	<SubTexture name="x" x="11500" y="0" width="500" height="500"/>
+	<SubTexture name="y" x="12000" y="0" width="500" height="500"/>
+	<SubTexture name="z" x="12500" y="0" width="500" height="500"/>
+	<SubTexture name="0" x="0" y="0" width="0" height="0"/>
+</TextureAtlas>

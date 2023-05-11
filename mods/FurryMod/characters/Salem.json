@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				480
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Frey Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				358
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Frey Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				442
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Frey Idle0"
+		},
+		{
+			"offsets": [
+				241,
+				448
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Frey Left0"
+		},
+		{
+			"offsets": [
+				-7,
+				432
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Frey Right0"
+		},
+		{
+			"offsets": [
+				601,
+				780
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Shoot",
+			"indices": [],
+			"name": "Frey Attack0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Salem",
+	"position": [
+		330,
+		650
+	],
+	"healthicon": "salem",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		136,
+		85
+	],
+	"camera_position": [
+		-229,
+		-525
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				455
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Frey Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				388
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Frey Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				452
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Frey Idle0"
+		},
+		{
+			"offsets": [
+				271,
+				413
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Frey Left0"
+		},
+		{
+			"offsets": [
+				25,
+				311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Frey Right0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Olly",
+	"position": [
+		-190,
+		470
+	],
+	"healthicon": "daade",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		136,
+		85
+	],
+	"camera_position": [
+		359,
+		-285
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

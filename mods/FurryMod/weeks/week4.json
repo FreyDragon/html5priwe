@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Volcanic",
+			"dadda",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "master",
+	"weekCharacters": [
+		"da",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Meme Gleam",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week3",
+	"startUnlocked": true
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bod.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="20" y="20" width="792" height="986" frameX="0" frameY="0" frameWidth="807" frameHeight="986"/>
+	<SubTexture name="talk0001" x="832" y="20" width="802" height="985" frameX="0" frameY="-1" frameWidth="807" frameHeight="986"/>
+	<SubTexture name="talk0002" x="20" y="1026" width="807" height="984" frameX="0" frameY="-2" frameWidth="807" frameHeight="986"/>
+	<SubTexture name="talk0003" x="20" y="20" width="792" height="986" frameX="0" frameY="0" frameWidth="807" frameHeight="986"/>
+</TextureAtlas>

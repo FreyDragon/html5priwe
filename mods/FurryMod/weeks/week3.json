@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Salem",
+			"salem",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Remittance",
+			"salem",
+			[
+				200,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "expert",
+	"weekCharacters": [
+		"da",
+		"bf",
+		"gf"
+	],
+	"storyName": "Wares from everywheres",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week2",
+	"startUnlocked": true
+}

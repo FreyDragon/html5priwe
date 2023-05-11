@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "ollytalk",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! Do you wanna see my science project?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure. Why not?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop battle."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOT RIGHT NOW!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "D:"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The heart is an essential organ for survival. It distributes blood throughout the body."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The heart directs blood through a specific path."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If blood were to not be organized, it would clot and pool."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOT RIGHT NOW!"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ANYWAYS, the blood flows in this path:"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "First, blood enters via the right atrium..."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then, the blood travels to the pulmonary arteries."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After that, the blood acquires oxygen in the lungs."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then, the blood travels to the pulmonary veins, and into the left atrium."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Next in the process, blood travels through the left ventricle."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Finally, blood leaves the aorta for distribution throughout the body..."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Check out SCIENCEreadme.txt in mods/ furrymod/ data!"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "amogus"
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "amogus"
+		}
+	]
+}

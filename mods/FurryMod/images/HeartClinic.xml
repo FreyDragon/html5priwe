@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HeartClinic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amogus00" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus01" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus02" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="amogus03" x="3840" y="0" width="1280" height="720"/>
+</TextureAtlas>

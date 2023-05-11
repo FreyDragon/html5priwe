@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "ollytalk",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! Welcome to my hospital!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Isn't it abandoned?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop battle."
+		},
+		{
+			"sound": "ollytalk",
+			"speed": 0.1,
+			"portrait": "bob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ALRIGHT ALRIGHT I GET IT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":D"
+		}
+	]
+}
